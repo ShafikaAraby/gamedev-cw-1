@@ -1,0 +1,39 @@
+﻿Cloning into 'C:\Users\shosh\Documents\GitHub\gamedev-cw-1\VisualStudio\ShafikaAraby\gamedev-cw-1'...
+POST git-upload-pack (174 bytes)
+POST git-upload-pack (212 bytes)
+Remote: Enumerating objects: 18, done.        
+Remote: Counting objects:   5% (1/18)        
+Remote: Counting objects:  11% (2/18)        
+Remote: Counting objects:  16% (3/18)        
+Remote: Counting objects:  22% (4/18)        
+Remote: Counting objects:  27% (5/18)        
+Remote: Counting objects:  33% (6/18)        
+Remote: Counting objects:  38% (7/18)        
+Remote: Counting objects:  44% (8/18)        
+Remote: Counting objects:  50% (9/18)        
+Remote: Counting objects:  55% (10/18)        
+Remote: Counting objects:  61% (11/18)        
+Remote: Counting objects:  66% (12/18)        
+Remote: Counting objects:  72% (13/18)        
+Remote: Counting objects:  77% (14/18)        
+Remote: Counting objects:  83% (15/18)        
+Remote: Counting objects:  88% (16/18)        
+Remote: Counting objects:  94% (17/18)        
+Remote: Counting objects: 100% (18/18)        
+Remote: Counting objects: 100% (18/18), done.        
+Remote: Compressing objects:  10% (1/10)        
+Remote: Compressing objects:  20% (2/10)        
+Remote: Compressing objects:  30% (3/10)        
+Remote: Compressing objects:  40% (4/10)        
+Remote: Compressing objects:  50% (5/10)        
+Remote: Compressing objects:  60% (6/10)        
+Remote: Compressing objects:  70% (7/10)        
+Remote: Compressing objects:  80% (8/10)        
+Remote: Compressing objects:  90% (9/10)        
+Remote: Compressing objects: 100% (10/10)        
+Remote: Compressing objects: 100% (10/10), done.        
+Remote: Total 18 (delta 4), reused 6 (delta 1), pack-reused 0        
+Opening repositories:
+C:\Users\shosh\Documents\GitHub\gamedev-cw-1\VisualStudio\ShafikaAraby\gamedev-cw-1
+Opening repositories:
+C:\Users\shosh\Documents\GitHub\gamedev-cw-1\VisualStudio\ShafikaAraby\gamedev-cw-1
